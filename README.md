@@ -87,12 +87,12 @@ The report identifies **California** as the highest-sales state among the displa
 
 ### Overview
 
-![Overview](page1.png)
+![Overview](images/page1.png)
 
 ### Category Analysis
 
-![Category Analysis](page2.png)
+![Category Analysis](images/page2.png)
 
 ### Region & Shipping Analysis
 
-![Region & Shipping Analysis](page3.png)
+![Region & Shipping Analysis](images/page3.png)
